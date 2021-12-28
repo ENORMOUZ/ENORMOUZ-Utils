@@ -39,8 +39,8 @@
         },
         "dragon_hunter": {
             "neuName": "DRAGON_HUNTER",
-            "goodLevel": "3",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "ender_slayer": {
             "neuName": "ENDER_SLAYER",
@@ -91,11 +91,13 @@
         },
         "mana_steal": {
             "neuName": "MANA_STEAL",
-            "maxLevel": "3"
+            "maxLevel": "3",
+            "calculate": "true"
         },
         "overload": {
             "neuName": "OVERLOAD",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "power": {
             "neuName": "POWER",
@@ -104,7 +106,8 @@
         },
         "pristine": {
             "neuName": "PRISTINE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "projectile_protection": {
             "neuName": "PROJECTILE_PROTECTION",
@@ -121,7 +124,8 @@
         },
         "rejuvenate": {
             "neuName": "REJUVENATE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "replenish": {
             "neuName": "REPLENISH",
@@ -138,7 +142,8 @@
         },
         "smarty_pants": {
             "neuName": "SMARTY_PANTS",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "smite": {
             "neuName": "SMITE",
@@ -150,7 +155,8 @@
         },
         "sugar_rush": {
             "neuName": "SUGAR_RUSH",
-            "maxLevel": "3"
+            "maxLevel": "3",
+            "calculate": "true"
         },
         "syphon": {
             "neuName": "SYPHON",
@@ -175,43 +181,53 @@
         },
         "turbo_cactus": {
             "neuName": "TURBO_CACTUS",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_cane": {
             "neuName": "TURBO_CANE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_carrot": {
             "neuName": "TURBO_CARROT",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_coco": {
             "neuName": "TURBO_COCO",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_melon": {
             "neuName": "TURBO_MELON",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_mushrooms": {
             "neuName": "TURBO_MUSHROOMS",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_potato": {
             "neuName": "TURBO_POTATO",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_pumpkin": {
             "neuName": "TURBO_PUMPKIN",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_warts": {
             "neuName": "TURBO_WARTS",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "turbo_wheat": {
             "neuName": "TURBO_WHEAT",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "calculate": "true"
         },
         "vampirism": {
             "neuName": "VAMPIRISM",
