@@ -219,55 +219,55 @@
     },
     "ULTIMATE": {
         "ultimate_bank": {
-            "neuName": "BANK",
+            "neuName": "ULTIMATE_BANK",
             "maxLevel": "5"
         },
         "ultimate_chimera": {
-            "neuName": "CHIMERA",
+            "neuName": "ULTIMATE_CHIMERA",
             "maxLevel": "5"
         },
         "ultimate_combo": {
-            "neuName": "COMBO",
+            "neuName": "ULTIMATE_COMBO",
             "maxLevel": "5"
         },
         "ultimate_last_stand": {
-            "neuName": "LAST_STAND",
+            "neuName": "ULTIMATE_LAST_STAND",
             "maxLevel": "5"
         },
         "ultimate_jerry": {
-            "neuName": "ULTIMATE_JERRY",
+            "neuName": "ULTIMATE_ULTIMATE_JERRY",
             "maxLevel": "5"
         },
         "ultimate_legion": {
-            "neuName": "LEGION",
+            "neuName": "ULTIMATE_LEGION",
             "maxLevel": "5"
         },
         "ultimate_no_pain_no_gain": {
-            "neuName": "NO_PAIN_NO_GAIN",
+            "neuName": "ULTIMATE_NO_PAIN_NO_GAIN",
             "maxLevel": "5"
         },
         "ultimate_one_for_all": {
-            "neuName": "ONE_FOR_ALL",
+            "neuName": "ULTIMATE_ONE_FOR_ALL",
             "maxLevel": "1"
         },
         "ultimate_rend": {
-            "neuName": "REND",
+            "neuName": "ULTIMATE_REND",
             "maxLevel": "5"
         },
         "ultimate_soul_eater": {
-            "neuName": "SOUL_EATER",
+            "neuName": "ULTIMATE_SOUL_EATER",
             "maxLevel": "5"
         },
         "ultimate_swarm": {
-            "neuName": "SWARM",
+            "neuName": "ULTIMATE_SWARM",
             "maxLevel": "5"
         },
         "ultimate_wise": {
-            "neuName": "ULTIMATE_WISE",
+            "neuName": "ULTIMATE_ULTIMATE_WISE",
             "maxLevel": "5"
         },
         "ultimate_wisdom": {
-            "neuName": "WISDOM",
+            "neuName": "ULTIMATE_WISDOM",
             "maxLevel": "5"
         }
     },
