@@ -2,15 +2,16 @@
     "NORMAL": {
         "bane_of_arthropods": {
             "neuName": "BANE_OF_ARTHROPODS",
-            "maxLevel": 7
+            "maxLevel": "7"
         },
         "big_brain": {
             "neuName": "BIG_BRAIN",
-            "maxLevel": 5
+            "goodLevel": "3",
+            "maxLevel": "5"
         },
         "blast_protection": {
             "neuName": "BLAST_PROTECTION",
-            "maxLevel": 7
+            "maxLevel": "7"
         },
         "chance": {
             "neuName": "CHANCE",
@@ -38,6 +39,7 @@
         },
         "dragon_hunter": {
             "neuName": "DRAGON_HUNTER",
+            "goodLevel": "3",
             "maxLevel": "5"
         },
         "ender_slayer": {
@@ -221,6 +223,7 @@
         },
         "vicious": {
             "neuName": "VICIOUS",
+            "goodLevel": "3",
             "maxLevel": "5"
         }
     },
