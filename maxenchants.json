@@ -42,6 +42,7 @@
         },
         "ender_slayer": {
             "neuName": "ENDER_SLAYER",
+            "goodLevel": "6",
             "maxLevel": "7"
         },
         "execute": {
@@ -62,10 +63,12 @@
         },
         "giant_killer": {
             "neuName": "GIANT_KILLER",
+            "goodLevel": "6",
             "maxLevel": "7"
         },
         "growth": {
             "neuName": "GROWTH",
+            "goodLevel": "6",
             "maxLevel": "7"
         },
         "harvesting": {
@@ -94,6 +97,7 @@
         },
         "power": {
             "neuName": "POWER",
+            "goodLevel": "6",
             "maxLevel": "7"
         },
         "pristine": {
@@ -110,6 +114,7 @@
         },
         "protection": {
             "neuName": "PROTECTION",
+            "goodLevel": "6",
             "maxLevel": "7"
         },
         "rejuvenate": {
@@ -126,6 +131,7 @@
         },
         "sharpness": {
             "neuName": "SHARPNESS",
+            "goodLevel": "6",
             "maxLevel": "7"
         },
         "smarty_pants": {
@@ -146,6 +152,7 @@
         },
         "syphon": {
             "neuName": "SYPHON",
+            "goodLevel": "4",
             "maxLevel": "5"
         },
         "thunderbolt": {
