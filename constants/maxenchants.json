@@ -167,6 +167,11 @@
             "neuName": "THUNDERBOLT",
             "maxLevel": "6"
         },
+        "thunderlord": {
+            "neuName": "THUNDERLORD",
+            "goodLevel": "6",
+            "maxLevel": "7"
+        },
         "titan_killer": {
             "neuName": "TITAN_KILLER",
             "maxLevel": "7"
