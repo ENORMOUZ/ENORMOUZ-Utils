@@ -296,17 +296,17 @@
             "maxLevel": "5",
             "neuName": "ULTIMATE_COMBO"
         },
-        "ultimate_duplex": {
+        "ultimate_reiterate": {
             "maxLevel": "5",
-            "neuName": "ULTIMATE_DUPLEX"
+            "neuName": "ULTIMATE_REITERATE"
         },
         "ultimate_fatal_tempo": {
             "maxLevel": "5",
-            "neuName": "FATAL_TEMPO"
+            "neuName": "ULTIMATE_FATAL_TEMPO"
         },
         "ultimate_inferno": {
             "maxLevel": "5",
-            "neuName": "INFERNO"
+            "neuName": "ULTIMATE_INFERNO"
         },
         "ultimate_jerry": {
             "maxLevel": "5",
