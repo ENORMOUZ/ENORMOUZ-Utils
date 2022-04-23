@@ -1,305 +1,352 @@
 {
     "NORMAL": {
         "bane_of_arthropods": {
-            "neuName": "BANE_OF_ARTHROPODS",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "BANE_OF_ARTHROPODS"
         },
         "big_brain": {
-            "neuName": "BIG_BRAIN",
             "goodLevel": "3",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "BIG_BRAIN"
         },
         "blast_protection": {
-            "neuName": "BLAST_PROTECTION",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "BLAST_PROTECTION"
         },
         "chance": {
-            "neuName": "CHANCE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "CHANCE"
+        },
+        "charm": {
+            "calculate": "true",
+            "maxLevel": "5",
+            "neuName": "CHARM"
         },
         "cleave": {
-            "neuName": "CLEAVE",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "CLEAVE"
+        },
+        "corruption": {
+            "calculate": "true",
+            "maxLevel": "5",
+            "neuName": "CORRUPTION"
         },
         "counter_strike": {
-            "neuName": "COUNTER_STRIKE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "COUNTER_STRIKE"
         },
         "critical": {
-            "neuName": "CRITICAL",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "CRITICAL"
         },
         "cubism": {
-            "neuName": "CUBISM",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "CUBISM"
         },
         "delicate": {
-            "neuName": "DELICATE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "DELICATE"
         },
         "dragon_hunter": {
-            "neuName": "DRAGON_HUNTER",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "DRAGON_HUNTER"
         },
         "ender_slayer": {
-            "neuName": "ENDER_SLAYER",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "ENDER_SLAYER"
         },
         "execute": {
-            "neuName": "EXECUTE",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "EXECUTE"
+        },
+        "ferocious_mana": {
+            "calculate": "true",
+            "maxLevel": "10",
+            "neuName": "FEROCIOUS_MANA"
         },
         "fire_protection": {
-            "neuName": "FIRE_PROTECTION",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "FIRE_PROTECTION"
         },
         "first_strike": {
-            "neuName": "FIRST_STRIKE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "FIRST_STRIKE"
         },
         "fortune": {
-            "neuName": "FORTUNE",
-            "maxLevel": "4"
+            "maxLevel": "4",
+            "neuName": "FORTUNE"
         },
         "giant_killer": {
-            "neuName": "GIANT_KILLER",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "GIANT_KILLER"
         },
         "growth": {
-            "neuName": "GROWTH",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "GROWTH"
+        },
+        "hardened_mana": {
+            "calculate": "true",
+            "maxLevel": "10",
+            "neuName": "HARDENED_MANA"
         },
         "harvesting": {
-            "neuName": "HARVESTING",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "HARVESTING"
         },
         "life_steal": {
-            "neuName": "LIFE_STEAL",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "LIFE_STEAL"
         },
         "looting": {
-            "neuName": "LOOTING",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "LOOTING"
         },
         "luck": {
-            "neuName": "LUCK",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "LUCK"
         },
         "mana_steal": {
-            "neuName": "MANA_STEAL",
+            "calculate": "true",
             "maxLevel": "3",
-            "calculate": "true"
+            "neuName": "MANA_STEAL"
+        },
+        "mana_vampire": {
+            "calculate": "true",
+            "maxLevel": "10",
+            "neuName": "MANA_VAMPIRE"
         },
         "overload": {
-            "neuName": "OVERLOAD",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "OVERLOAD"
         },
         "power": {
-            "neuName": "POWER",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "POWER"
         },
         "pristine": {
-            "neuName": "PRISTINE",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "PRISTINE"
         },
         "projectile_protection": {
-            "neuName": "PROJECTILE_PROTECTION",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "PROJECTILE_PROTECTION"
         },
         "prosecute": {
-            "neuName": "PROSECUTE",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "PROSECUTE"
         },
         "protection": {
-            "neuName": "PROTECTION",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "PROTECTION"
         },
         "rejuvenate": {
-            "neuName": "REJUVENATE",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "REJUVENATE"
         },
         "replenish": {
-            "neuName": "REPLENISH",
-            "maxLevel": "1"
+            "maxLevel": "1",
+            "neuName": "REPLENISH"
         },
         "scavenger": {
-            "neuName": "SCAVENGER",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "SCAVENGER"
         },
         "sharpness": {
-            "neuName": "SHARPNESS",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "SHARPNESS"
         },
         "smarty_pants": {
-            "neuName": "SMARTY_PANTS",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "SMARTY_PANTS"
         },
         "smite": {
-            "neuName": "SMITE",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "SMITE"
+        },
+        "smoldering": {
+            "calculate": "true",
+            "maxLevel": "10",
+            "neuName": "SMOLDERING"
         },
         "snipe": {
-            "neuName": "SNIPE",
-            "maxLevel": "4"
+            "maxLevel": "4",
+            "neuName": "SNIPE"
+        },
+        "strong_mana": {
+            "calculate": "true",
+            "maxLevel": "10",
+            "neuName": "STRONG_MANA"
         },
         "sugar_rush": {
-            "neuName": "SUGAR_RUSH",
+            "calculate": "true",
             "maxLevel": "3",
-            "calculate": "true"
+            "neuName": "SUGAR_RUSH"
         },
         "syphon": {
-            "neuName": "SYPHON",
             "goodLevel": "4",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "SYPHON"
         },
         "thunderbolt": {
-            "neuName": "THUNDERBOLT",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "THUNDERBOLT"
         },
         "thunderlord": {
-            "neuName": "THUNDERLORD",
             "goodLevel": "6",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "THUNDERLORD"
         },
         "titan_killer": {
-            "neuName": "TITAN_KILLER",
-            "maxLevel": "7"
+            "maxLevel": "7",
+            "neuName": "TITAN_KILLER"
         },
         "triple_strike": {
-            "neuName": "TRIPLE_STRIKE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "TRIPLE_STRIKE"
         },
         "true_protection": {
-            "neuName": "TRUE_PROTECTION",
-            "maxLevel": "1"
+            "maxLevel": "1",
+            "neuName": "TRUE_PROTECTION"
         },
         "turbo_cactus": {
-            "neuName": "TURBO_CACTUS",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_CACTUS"
         },
         "turbo_cane": {
-            "neuName": "TURBO_CANE",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_CANE"
         },
         "turbo_carrot": {
-            "neuName": "TURBO_CARROT",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_CARROT"
         },
         "turbo_coco": {
-            "neuName": "TURBO_COCO",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_COCO"
         },
         "turbo_melon": {
-            "neuName": "TURBO_MELON",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_MELON"
         },
         "turbo_mushrooms": {
-            "neuName": "TURBO_MUSHROOMS",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_MUSHROOMS"
         },
         "turbo_potato": {
-            "neuName": "TURBO_POTATO",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_POTATO"
         },
         "turbo_pumpkin": {
-            "neuName": "TURBO_PUMPKIN",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_PUMPKIN"
         },
         "turbo_warts": {
-            "neuName": "TURBO_WARTS",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_WARTS"
         },
         "turbo_wheat": {
-            "neuName": "TURBO_WHEAT",
+            "calculate": "true",
             "maxLevel": "5",
-            "calculate": "true"
+            "neuName": "TURBO_WHEAT"
         },
         "vampirism": {
-            "neuName": "VAMPIRISM",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "VAMPIRISM"
         },
         "venomous": {
-            "neuName": "VENOMOUS",
-            "maxLevel": "6"
+            "maxLevel": "6",
+            "neuName": "VENOMOUS"
         },
         "vicious": {
-            "neuName": "VICIOUS",
             "goodLevel": "3",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "VICIOUS"
         }
     },
     "ULTIMATE": {
         "ultimate_bank": {
-            "neuName": "ULTIMATE_BANK",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_BANK"
         },
         "ultimate_chimera": {
-            "neuName": "ULTIMATE_CHIMERA",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_CHIMERA"
         },
         "ultimate_combo": {
-            "neuName": "ULTIMATE_COMBO",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_COMBO"
         },
-        "ultimate_last_stand": {
-            "neuName": "ULTIMATE_LAST_STAND",
-            "maxLevel": "5"
+        "ultimate_duplex": {
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_DUPLEX"
+        },
+        "ultimate_fatal_tempo": {
+            "maxLevel": "5",
+            "neuName": "FATAL_TEMPO"
+        },
+        "ultimate_inferno": {
+            "maxLevel": "5",
+            "neuName": "INFERNO"
         },
         "ultimate_jerry": {
-            "neuName": "ULTIMATE_JERRY",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_JERRY"
+        },
+        "ultimate_last_stand": {
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_LAST_STAND"
         },
         "ultimate_legion": {
-            "neuName": "ULTIMATE_LEGION",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_LEGION"
         },
         "ultimate_no_pain_no_gain": {
-            "neuName": "ULTIMATE_NO_PAIN_NO_GAIN",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_NO_PAIN_NO_GAIN"
         },
         "ultimate_one_for_all": {
-            "neuName": "ULTIMATE_ONE_FOR_ALL",
-            "maxLevel": "1"
+            "maxLevel": "1",
+            "neuName": "ULTIMATE_ONE_FOR_ALL"
         },
         "ultimate_rend": {
-            "neuName": "ULTIMATE_REND",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_REND"
         },
         "ultimate_soul_eater": {
-            "neuName": "ULTIMATE_SOUL_EATER",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_SOUL_EATER"
         },
         "ultimate_swarm": {
-            "neuName": "ULTIMATE_SWARM",
-            "maxLevel": "5"
-        },
-        "ultimate_wise": {
-            "neuName": "ULTIMATE_WISE",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_SWARM"
         },
         "ultimate_wisdom": {
-            "neuName": "ULTIMATE_WISDOM",
-            "maxLevel": "5"
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_WISDOM"
+        },
+        "ultimate_wise": {
+            "maxLevel": "5",
+            "neuName": "ULTIMATE_WISE"
         }
     },
     "COSTS": {
@@ -307,6 +354,11 @@
         "2": 2,
         "3": 4,
         "4": 8,
-        "5": 16
+        "5": 16,
+        "6": 32,
+        "7": 64,
+        "8": 128,
+        "9": 256,
+        "10": 512
     }
 }
